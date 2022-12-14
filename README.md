@@ -15,3 +15,19 @@
 5. 파일 전송
 6. 공공데이터 사용  
 7. 추가 기능
+
+🎬 Youtube Link
+https://youtu.be/__-P7-6oUxQ
+
+🙆🏻‍♀️ Team Attributes
+김병규 | 공공데이터(OpenAPI)
+https://github.com/bk11052/-2022-2-Network
+
+김아진 | 사용자/친구 관리
+https://github.com/darkmochalover/SimpleMessenger
+
+박찬우 | 채팅방 기능, 1:1 채팅방 내 파일 전송
+https://github.com/FenderCustomTelecaster/NetWork-Term-Project_Park_Chanu
+
+박종현 | 접속/회원 가입 , 로그인
+https://github.com/lgtwinshonghong/netWorkFinal
